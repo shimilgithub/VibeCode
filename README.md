@@ -28,6 +28,10 @@ VibeCode acts as a mini engineering team using a multi-agent system.You give it 
 ## Installation
 
 1.  **Clone the repository** 
+```bash
+git clone https://github.com/shimilgithub/VibeCode.git
+cd VibeCode
+```
 
 2.  **Install dependencies** using `pip`:
 ```bash
